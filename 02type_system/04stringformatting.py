@@ -4,6 +4,9 @@
 # which are used to evaluate the expression inside them.
 # The f-string is used to format strings in python. It is a new way to format strings in python. It is more readable and less error-prone.
 
+# Gone are the days of using the %s and %d to format strings in python. The f-string is the new way to format strings in python.
+# basically the fstring is used from python 3.6 and above
+
 
 userName = "festus"
 userage = 13
