@@ -1,7 +1,7 @@
 #learning the pimitive data types 
 
 """
-   The following are the primitiv data types in Python
+   The following are the primitive data types in Python
    
    1. Strings = "Festus"     in strings,  a valid sting can have either double or single quote. also ensure the consistency when using either of the quote
    2. Integers = 45     majorly they are only whole numbers from 0 - 9
