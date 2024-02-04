@@ -4,6 +4,29 @@
     or: one of the conditions must be true
     or: not: negates the condition
    
+   The following are the operators that we are going to work with
+    1. and
+    2. or
+    3. not
+    
+    AND TABLE
+    True and True = True
+    True and False = False
+    False and True = False
+    False and False = False
+    
+    OR TABLE
+    True or True = True
+    True or False = True
+    False or True = True
+    False or False = False
+    
+    NOT TABLE
+    not True = False
+    not False = True
+    
+   
+   
 """
 
 userage: int = 17
