@@ -108,7 +108,7 @@ if userage < 18 and country == "Kenya":
 elif userage >= 18 and country == "Kenya":
     print("You are now allowed to drink")
 
-    # True or False = False
+    # True or False = True
     # THe country is not Maku hence the path is false at this point
 elif userage < 18 or country == "Maku":
     print("You can try looking if you can drink in Maku")
