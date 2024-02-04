@@ -27,7 +27,7 @@ print(f"Extra ingridients are {extra_ingridients}")
 print(f"The price of the pizza is {the_price}")
 
 """
-    second way to print the work using the format 
+    second way to print the work using the format in a variable name
     
 """
 
@@ -41,3 +41,14 @@ the_whole_details: str = f"""
 """
 
 print(the_whole_details)
+
+"""
+    third way to print the work using the format in a print function
+"""
+print(f"""Hello {myclient}! Your pizza is ready
+    The pizza is {pizza_make}
+    The pizza size is {pizza_size}
+    The pizza additions are {pizza_additions}
+    Extra ingridients are {extra_ingridients}
+    The price of the pizza is {the_price}
+""")
